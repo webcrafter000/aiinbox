@@ -3,6 +3,9 @@
 A minimal, production-style web application for saving notes and web pages, embedding them into vector chunks, and asking questions answered with verifiable source citations via RAG (Retrieval-Augmented Generation).
 
 ---
+# Local Testing:
+
+<img width="1777" height="963" alt="image" src="https://github.com/user-attachments/assets/7e7cc830-3668-4de5-84a9-f4385f6e21a2" />
 
 ## Features
 
